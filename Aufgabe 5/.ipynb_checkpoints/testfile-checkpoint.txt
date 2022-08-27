@@ -1,0 +1,6 @@
+X-DSPAM-Confidence: 10.0
+Y-DSPAM-Confidence: 20.0
+X-DSPAM-Confidence: 30.0
+X-DSPA-Confidence: 40.0
+X-DSPAM-Confidence: 50.0
+X-DSPAM-Confidence: 50.0 XXX

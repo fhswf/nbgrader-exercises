@@ -1,0 +1,42 @@
+X-DSPAM-Confidence: 10.0
+Y-DSPAM-Confidence: 1.42435345
+X-DSPAM-Confidence: 30.0
+X-DSPA-Confidence: 40.0
+X-DSPAM-Confidence: 0.139955
+X-DSPAM-Confidence: 50.0 XXX
+X-DSPAM-Confidenc: 10.0
+Y-DSPAM-Confidence: 20.0
+X-DSPAM-Confidence: 0.172844
+X-DSPA-Confidence: 40.0
+X-DSPAM-Confidence: 50.0
+X-DSPAM-Confidence: 50.0 XXX
+X-DSPAM-Confidence: 10.0
+Y-DSPAM-Confidence: 0.12324
+X-DSPAM-Confidence: 30.0
+X-DSPA-Confidence: X
+X-DSPAM-Confidence: 50.0
+X-DSPAM-Confidnce: 50.0 XXX
+X-DSPAM-Confidence: 10.0
+Y-DSPAM-Confidence: 20.0
+X-DSPAM-Confidence: 30.0
+X-DSPA-Confidence: 40.0
+X-DSPAM-Confidence: X
+X-DSPAM-Confidence: 50.0 XXX
+X-DSPAM-Confdence: 10.0
+Y-DSPAM-Confidence: 20.0
+X-DSPAM-Confidence: 30.0
+X-DSPA-Confidence: 40.0
+X-DSPAM-Confidence: 50.0
+X-DSPAM-Confidence: 50.0 XXX
+X-DSPAM-Confidence: 10.0
+Y-DSPAM-Confidence: 20.0
+X-DSPAM-Confidence: 0.0
+X-DSPA-Confidence: 40.0
+X-DSPAM-Confidence: 10.0
+X-DSPAM-Confidence: 50.0 XXX
+X-DSPAM-Confidence: 0.1355523
+Y-DSPAM-Confidence: 20.0
+X-DSPAM-Confidence: 30.0
+X-DSPA-Confidence: 40.0
+X-DSPAM-Confidence: 50.0
+X-DSPAM-Confidence: 50.0 XXX
