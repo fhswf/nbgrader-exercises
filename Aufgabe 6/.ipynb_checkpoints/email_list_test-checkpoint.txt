@@ -1,0 +1,2 @@
+max.mustermann@meine-domain.de
+susanne.musterfrau@meine-domain.de
